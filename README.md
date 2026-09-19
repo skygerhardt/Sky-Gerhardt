@@ -1,9 +1,12 @@
 # Hi, I'm Skylar Gerhardt 👋
 
-I am a Global MBA student at the University of Hawaiʻi at Mānoa's Shidler College of Business with a background in finance, private equity, entrepreneurship, and collegiate athletics.
+I am a Global MBA student at the University of Hawaiʻi at Mānoa's Shidler College of Business with a background in finance, private equity, entrepreneurship, and Division I athletics. I earned my undergraduate degree in Finance from the University of Maryland's Robert H. Smith School of Business and am continuing to build my skills in financial analysis, strategy, data analytics, and global business.
 
-I earned my undergraduate degree in Finance from the University of Maryland's Robert H. Smith School of Business and am currently continuing my education through Shidler's Global MBA program.
+My professional experience includes a private equity internship at Bison Capital, where I worked with financial models, company research, projections, investor presentations, and portfolio company analysis. I am also the founder of Darling Tents LLC, a small business that gave me hands-on experience with entrepreneurship, marketing, customer relationships, and financial management.
 
+Outside of academics and work, I have competed as an NCAA Division I student-athlete at Villanova, Maryland, and now Hawaiʻi Beach Volleyball. Athletics has taught me how to work under pressure, communicate within a team, manage my time, and stay disciplined while balancing demanding academic and professional goals.
+
+I am especially interested in finance, strategy, private equity, entrepreneurship, and the growing role of AI in business.
 ## About Me
 
 -  Global MBA student at the University of Hawaiʻi at Mānoa
@@ -46,3 +49,7 @@ I am especially interested in:
 I am always interested in connecting with people in finance, business, entrepreneurship, and athletics.
 
 More projects and coursework will be added to this portfolio as I continue through my MBA program.# Sky-Gerhardt
+
+---
+
+*Drafted with help from ChatGPT (OpenAI, 2026); reviewed and edited by me.*

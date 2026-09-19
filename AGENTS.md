@@ -81,3 +81,18 @@ Use the following general structure:
 ## Portfolio Goal
 
 The goal of this repository is to demonstrate Skylar's combination of finance knowledge, business education, leadership experience, entrepreneurship, analytics skills, and Division I athletic experience through a growing collection of professional projects.
+
+## Prompt Log Rule
+
+After every meaningful AI-assisted work session in this repository, append a new entry to `prompt-log.md`.
+
+Each entry should include:
+
+- Date
+- What I asked the AI to help with
+- What the AI produced
+- What needed correction or improvement
+- How I reviewed or verified the result
+- Final outcome or decision
+
+Append entries as sessions happen. Never backfill old sessions or invent work that was not documented at the time.

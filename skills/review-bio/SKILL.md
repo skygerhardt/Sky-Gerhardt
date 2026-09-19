@@ -1,3 +1,8 @@
+---
+name: review-bio
+description: Reviews and improves Skylar Gerhardt's professional bio while preserving her voice, factual accuracy, and the required 150–200 word length.
+---
+
 # Review Bio Skill
 
 ## Purpose

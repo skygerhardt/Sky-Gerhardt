@@ -96,3 +96,14 @@ Each entry should include:
 - Final outcome or decision
 
 Append entries as sessions happen. Never backfill old sessions or invent work that was not documented at the time.
+
+## How I Like to Work
+
+- Explain things clearly and practically.
+- Use examples when they make a concept easier to understand.
+- Keep writing professional but natural and in my voice.
+- Avoid unnecessary jargon or overly complicated wording.
+- When helping with schoolwork, show the reasoning so I can understand the answer.
+- Flag assumptions instead of making up missing information.
+- Double-check calculations, dates, names, and factual claims.
+- Keep final work organized and easy to scan.

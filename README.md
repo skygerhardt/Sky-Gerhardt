@@ -52,4 +52,16 @@ More projects and coursework will be added to this portfolio as I continue throu
 
 ---
 
+## Engagement Index
+
+This section tracks the major projects and professional work included in my portfolio.
+
+### Portfolio & Personal LLM Setup
+- **Date:** September 2026
+- **Focus:** Professional portfolio development and AI workflow setup
+- **What I built:** A structured GitHub portfolio with personal AI conventions, reusable skills, a prompt log, decision memos, and organized folders for future analysis.
+- **Evidence:** [Personal LLM Setup Decision Memo](docs/decisions/2026-09-20-personal-llm-setup.md)
+
+More engagements will be added as I complete projects throughout my coursework and professional development.
+
 *Drafted with help from ChatGPT (OpenAI, 2026); reviewed and edited by me.*

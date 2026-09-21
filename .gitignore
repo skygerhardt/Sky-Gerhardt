@@ -24,3 +24,9 @@ venv/
 
 # Node
 node_modules/
+
+# Windows
+Thumbs.db
+
+# Microsoft Office temporary files
+~$*

@@ -19,10 +19,12 @@ ChatGPT helped me draft:
 - A `/review-bio` command
 
 ### What needed correction or improvement
-I compared the AI-generated setup with the course instructions and made changes so the file names, structure, and requirements matched the assignment.
+I compared the AI-generated setup with the course instructions and made changes so the file names, structure, and requirements matched the assignment. 
+
+I reviewed the instructor feedback and corrected the repository structure to match the course conventions. I added README files to the analysis/ and docs/ folders and removed the duplicate /review-bio command from skills/review-bio/.claude/commands/, keeping the main version in .claude/commands/ as the single source of truth.
 
 ### How I reviewed or verified it
 I reviewed each file before committing it to GitHub and compared the repository structure with the course onboarding instructions.
 
 ### Final outcome
-I created a reusable AI workflow that can review my professional bio while following my preferred writing style and portfolio standards.
+I created a reusable AI workflow that can review my professional bio while following my preferred writing style and portfolio standards. 

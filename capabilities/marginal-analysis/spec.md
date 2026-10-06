@@ -3,7 +3,7 @@ type: spec
 capability: marginal-analysis
 engagement: perfect-competition
 date: 2026-10-05
-status: draft
+status: built
 build_with: "ChatGPT, from this file"
 --- 
 

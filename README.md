@@ -48,7 +48,7 @@ I am especially interested in:
 
 I am always interested in connecting with people in finance, business, entrepreneurship, and athletics.
 
-More projects and coursework will be added to this portfolio as I continue through my MBA program.# Sky-Gerhardt
+More projects and coursework will be added to this portfolio as I continue through my MBA program.
 
 ---
 

@@ -61,3 +61,10 @@ Every calculated cell in the workbook must contain a formula rather than a paste
 The recommended number of tomato, carrot, and mesclun beds, the total number of beds used, total revenue, fertilizer costs, total labor hours, owner labor used, temporary labor needed, the number of temporary workers needed, total labor cost, blended labor rate, total costs, and total profit should all be clearly reported in the final model. Additionally, it should display the pertinent marginal-cost figures and indicate if the significant labor, crop-cap, and land restrictions are binding or have residual capacity. 
 
 ## Audit findings
+- I checked the tomato labor formula at q = 1. The workbook returned 99 hours, which matches the hand calculation 1 × 2.5 × 36 × 1.10. This check would catch a missing exponent or incorrect labor formula.
+
+- I checked that calculated cells use formulas rather than pasted values and searched the workbook for #REF!, #DIV/0!, and #NAME? errors. The calculated outputs were formula-driven and I did not find those formula errors. This check would catch broken references or hard-coded model results.
+
+- I checked the constraint cells at the 10 tomato, 20 carrot, and 30 mesclun mix. The mix stays within the crop caps, uses only 60 of the 64 available beds, and remains within the labor constraints. This check would catch an infeasible recommended planting plan.
+
+- I located the tomato marginal-cost dip between beds 5 and 6 and noted it for Stage 3 analysis. I am not explaining the cause here because that belongs in Stage 3.

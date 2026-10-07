@@ -50,3 +50,20 @@ A model.xlsx workbook was generated with named inputs, crop and labor calculatio
 
 ### What I still need to verify
 I still need to run Solver from the required 0/0/0 and 20/0/0 starting points in an editable desktop version of Excel, complete the Farm Profit Lab cross-check, and record the audit findings before marking the specification as audited.
+
+## October 5–6, 2026 — Perfect Competition Stage 3
+
+### Tool
+ChatGPT
+
+### What I asked
+I used ChatGPT to help organize the evidence from my completed marginal-analysis model, check the numerical results I was using in my analysis, create the required marginal-cost figures, and help edit my Stage 3 analysis and decision memo.
+
+### What I got
+ChatGPT helped identify the model results that were most important for the four Stage 3 questions, including the tomato stopping point, the binding crop constraints, the drop in tomato marginal cost between beds 5 and 6, and the standalone profitability of each crop. It also helped create the two marginal-cost-versus-price figures used in my analysis.
+
+### What I did with it
+I compared the AI-supported results with my workbook and the Farm Profit Lab before using them in my final analysis. I also edited the wording so the analysis reflected how I understood the model and the economic reasoning behind the recommendation.
+
+### Reflection
+AI helped me organize my model results and figure out which numbers actually mattered most for my analysis. It was also helpful for creating the charts and making my final analysis clearer and less repetitive. At the same time, I did not just assume that everything AI gave me was correct. I checked the tomato labor calculation at q = 1 myself and got 99 hours, and I also used the Farm Profit Lab to verify the 5th tomato bed. The lab showed about $1,139 in marginal profit, which implies a marginal cost of about $7,661, and that matched my workbook's $7,660.43 after rounding. This showed me that AI was really useful for organizing and explaining the results, but I still needed to check the calculations myself and make sure the conclusions actually matched what my model was showing.

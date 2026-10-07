@@ -68,3 +68,5 @@ The recommended number of tomato, carrot, and mesclun beds, the total number of 
 - I checked the constraint cells at the 10 tomato, 20 carrot, and 30 mesclun mix. The mix stays within the crop caps, uses only 60 of the 64 available beds, and remains within the labor constraints. This check would catch an infeasible recommended planting plan.
 
 - I located the tomato marginal-cost dip between beds 5 and 6 and noted it for Stage 3 analysis. I am not explaining the cause here because that belongs in Stage 3.
+
+- I cross-checked the marginal cost of the 5th tomato bed against the Farm Profit Lab. In my workbook, the marginal cost was $7,660.43. In the Farm Profit Lab, with four tomato beds planted, adding the fifth bed increased profit by about $1,140. Since the tomato price is $8,800 per bed, this implies a marginal cost of about $7,660, which matches my workbook. This check would catch an error in the marginal-cost calculation even if the final optimal mix still looked reasonable.
